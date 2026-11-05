@@ -1,0 +1,7 @@
+name = "name"
+main = "_worker.js"
+compatibility_date = "2024-11-01"
+
+[[kv_namespaces]]
+binding = "K"
+id = "1c022d2e8c6a493394d0838809262570"
